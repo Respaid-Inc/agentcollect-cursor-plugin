@@ -1,0 +1,10 @@
+{
+  "name": "agentcollect",
+  "version": "1.0.0",
+  "description": "Read-only accounts receivable intelligence",
+  "author": {
+    "name": "Respaid Inc. (dba AgentCollect)",
+    "email": "support@agentcollect.com"
+  },
+  "homepage": "https://agentcollect.com/docs/mcp"
+}
