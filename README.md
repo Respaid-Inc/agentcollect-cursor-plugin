@@ -10,7 +10,7 @@ Context Protocol (MCP).
 
 ## Status
 
-- Marketplace submission: **not yet submitted**
+- Marketplace submission: **submitted on October 15, 2026; review pending**
 - End-to-end Grok Bot runtime test: **pending**
 
 This repository only contains the plugin manifest and MCP server pointer. No
